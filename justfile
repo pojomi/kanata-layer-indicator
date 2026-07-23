@@ -1,5 +1,5 @@
-name := 'keyd-layer-indicator'
-appid := 'com.github.pojomi.keyd-layer-indicator'
+name := 'kanata-layer-indicator'
+appid := 'com.github.pojomi.kanata-layer-indicator'
 
 rootdir := ''
 prefix := '/usr'

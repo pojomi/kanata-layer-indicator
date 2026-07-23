@@ -1,9 +1,9 @@
 [Desktop Entry]
-Name=Keyd Layer Indicator
-Comment=A visual representation of active keyboard layers from the keyd application
+Name=Kanata Layer Indicator
+Comment=A visual representation of active keyboard layers from the kanata application
 Type=Application
-Icon=com.github.pojomi.keyd-layer-indicator
-Exec=keyd-layer-indicator %F
+Icon=com.github.pojomi.kanata-layer-indicator
+Exec=kanata-layer-indicator %F
 Terminal=false
 StartupNotify=true
 Categories=COSMIC

@@ -1,6 +1,6 @@
-# Keyd Layer Indicator
+# Kanata Layer Indicator
 
-A visual representation of active keyboard layers from the keyd application
+A visual representation of active keyboard layers from the kanata application
 
 ## Installation
 
@@ -25,7 +25,7 @@ If packaging for a Linux distribution, vendor dependencies locally with the `ven
 ```sh
 just vendor
 just build-vendored
-just rootdir=debian/keyd-layer-indicator prefix=/usr install
+just rootdir=debian/kanata-layer-indicator prefix=/usr install
 ```
 
 It is recommended to build a source tarball with the vendored dependencies, which can typically be done by running `just vendor` on the host system before it enters the build environment.
@@ -40,4 +40,3 @@ Developers should install [rustup][rustup] and configure their editor to use [ru
 [just]: https://github.com/casey/just
 [rustup]: https://rustup.rs/
 [rust-analyzer]: https://rust-analyzer.github.io/
-[sccache]: https://github.com/mozilla/sccache
