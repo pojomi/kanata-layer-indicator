@@ -1,0 +1,14 @@
+[Desktop Entry]
+Name=Keyd Layer Indicator
+Comment=A visual representation of active keyboard layers from the keyd application
+Type=Application
+Icon=com.github.pojomi.keyd-layer-indicator
+Exec=keyd-layer-indicator %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+NoDisplay=true
+X-CosmicApplet=true
+X-CosmicHoverPopup=Auto
+MimeType=
